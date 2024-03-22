@@ -36,7 +36,7 @@ public class UserMapping : IEntityTypeConfiguration<User>
         builder.Property(x => x.Username)
             .IsRequired()
             .HasMaxLength(64)
-            .HasColumnName("Name")
+            .HasColumnName("Username")
             .HasColumnOrder(6);
         builder.Property(x => x.DateCreating)
             .IsRequired()
