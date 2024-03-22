@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDeCadastro", "ApiDeCadastro\ApiDeCadastro.csproj", "{7497ACFE-62ED-4410-A5BF-83E702657881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7497ACFE-62ED-4410-A5BF-83E702657881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7497ACFE-62ED-4410-A5BF-83E702657881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7497ACFE-62ED-4410-A5BF-83E702657881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7497ACFE-62ED-4410-A5BF-83E702657881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72236F5D-354E-440B-9E3F-86A24029AFA8}
+	EndGlobalSection
+EndGlobal
