@@ -1,4 +1,5 @@
-﻿using ApiDeCadastro.Models;
+﻿using ApiDeCadastro.Context.ModelsMapping;
+using ApiDeCadastro.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiDeCadastro.Context;
