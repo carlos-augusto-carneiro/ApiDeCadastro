@@ -1,7 +1,6 @@
-﻿namespace ApiDeCadastro.Models
+﻿namespace ApiDeCadastro.Models;
+
+public class BaseClass
 {
-    public class BaseClass
-    {
-        public Guid Id { get; set; }
-    }
+    public Guid Id { get; set; }
 }
