@@ -1,6 +1,6 @@
-﻿using ApiDeCadastro.Models;
+﻿using ApiDeCadastro.Models.Entitys;
 
-namespace ApiDeCadastro.Interface
+namespace ApiDeCadastro.Models.Interface
 {
     public interface BaseInterface<T> where T : BaseClass
     {
