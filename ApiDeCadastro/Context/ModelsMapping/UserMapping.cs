@@ -1,4 +1,4 @@
-﻿using ApiDeCadastro.Models;
+﻿using ApiDeCadastro.Models.Entitys;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
